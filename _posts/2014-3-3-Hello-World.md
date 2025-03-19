@@ -3,9 +3,9 @@ layout: post
 title: 시작과 목차
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+코드잇 스프린트 AI 2기 참여하면서 각 주차별 학습 내용과 배운 내용 등을 정리하는 블로그
 
-# .![_config.yml]({{ site.baseurl }}/images/404.jpg)
+# .![_config.yml]({{ site.baseurl }}/images/404.png)
 이미지 입력 방식
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the 
